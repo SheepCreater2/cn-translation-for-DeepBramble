@@ -85,7 +85,7 @@ This mod has extra achievements that can be earned through [Achievements+](https
 - Thank you to the following for creating translations!
   - Barirn - Korean translation
   - nepyanagi - Japanese translation
-  - SanBaiMing - Simplified Chinese translation
+  - SanBaiMing & SheepCreator2 - Simplified Chinese translation
   - ErriiickK - PT-BR
 - Title screen music derived from The Lost Reels by Andrew Prahlow
 - Custom music made with GarageBand
