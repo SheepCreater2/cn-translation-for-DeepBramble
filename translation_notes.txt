@@ -30,6 +30,20 @@ version, rename it appropriatelly, and translate it.
 "AT LEAST YOU’RE NOT THE ONLY ONE WHO’S THE LAST OF THEIR KIND": A custom ending used if you sit with Ditylum with the ATP disabled.
 "THE BRAMBLE CLAIMS ANOTHER": A custom ending if you deactivate the ATP and then stay in the Deep Bramble past the end of the loop.
 
+The names of the various signals in the signal gun.
+"Nomai Trailmarkers": The Nomai signal of Deep Bramble.
+"First Marker": The marker of Bramble's Doorstep.
+"Camp Marker": The marker of Northern Campsite.
+"Natural Phenomena": Help you to find Recursive Node,Graviton's Folly and Magma's Recursion.
+"Amplified Ambience": Locate Recursive Node.
+"Gravitational Anomaly": Locate Graviton's Folly.
+"Geothermal Activity": Locate Magma's Recursion.
+"Echolocation Tones": The echolocation of Dree.
+"Warped Echolocation": Locate Dangerous Node.
+"Ditylum Echolocation": Locate Ditylum in Bramble's Heart.
+"Alien Echolocation": Little node in Magma's Recursion.
+"Hot Shard": Locate the quantum rock in Magma's Recursion.
+
 ---Other---
 "Forgotten Castaways": The text displayed on the splash screen after sitting with Ditylum.
 
